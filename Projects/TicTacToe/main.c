@@ -3,6 +3,12 @@
 #define SIZE 3 //defining length and breadth of the board !
 #define INFINITE 1 //define infinite for the loop
 
+/*
+    @author : OfficiallyEra
+    Date : 27th of August 2024
+    update : 2 time(s)
+    FileId : TTT.m.01
+*/
 
 //function to print the board !
 void printBoard(char board[SIZE][SIZE]) 
